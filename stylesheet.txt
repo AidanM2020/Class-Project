@@ -1,0 +1,14 @@
+ /*
+*include padding in elements total
+*width and height
+*/
+* {
+		box-sizing: border-box;
+}
+body { 
+	
+	div{ 
+		width: 400px; 
+		border: 30px blue; 
+		padding: 35px;
+		margin: 30px;
